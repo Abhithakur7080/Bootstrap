@@ -1,0 +1,13 @@
+.container{
+    border: 5px solid black;
+}
+.container-fluid{
+    border: 5px solid red;
+}
+.row{
+    border: 5px solid red;
+}
+.col, .col-md, .col-lg, .col-2, .col-3{
+    border: 3px solid green;
+    background-color: #aaa;
+}

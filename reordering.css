@@ -1,0 +1,17 @@
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.orange{
+    background-color: orange;
+}
+.black{
+    border: 5px solid gray;
+}

@@ -1,0 +1,19 @@
+.container{
+    border: 5px solid black;
+}
+.container-fluid{
+    border: 5px solid red;
+}
+.row{
+    border: 5px solid red;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-12{
+    border: 3px solid green;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
